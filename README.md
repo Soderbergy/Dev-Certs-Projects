@@ -9,3 +9,8 @@ A collection of all projects and certifications earned during my training of bac
 ## Contracted Work
 ### [Bandits Hideout Discord Bot](https://github.com/Soderbergy/Bandits-Hideout-Bot)
 ### [Steve Discord Bot](https://github.com/Soderbergy/SteveBot)
+### [Auto Car Cover for GRZ]
+### [Raid Schedule for Elden DayZ]
+### [Logout Blacklist]
+### [Automatic Car Cover]
+
